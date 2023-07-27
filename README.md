@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://github.com/BrunaCarolinaabb/easy-shopping/blob/master/logo/para%20pc.png?raw=true"/>
+<img src="https://github.com/BrunaCarolinaabb/easy-shopping/blob/master/logo/pc%20final.png?raw=true"/>
 
 Esse foi um projeto, onde aprendemos a aplicar a RESPONSIVIDADE.
 <br>
